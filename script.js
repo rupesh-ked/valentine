@@ -56,7 +56,7 @@ document.querySelector(".yes-btn").addEventListener("click", () => {
         btnGroup.style.opacity = "0";
 
         setTimeout(() => {
-            question.innerHTML = "Yeahhhh!!! I love you Chandani. 💕\nThank you for coming into my life. Thank you for all those precious moments we had.\nI promise to keep you happy and I will always love you.";
+            question.innerHTML = "Yeahhhh!!! I love you Chandani. 💕\nThank you for coming into my life. Thank you for all those precious moments we had.\nI promise to keep you happy and I will always love you.\n-Yours";
             gif.src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNhdXh1b252b2F2b2U4cHRlNGkwMDZsajllaGF1cDJyb2p4NXl2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G6N0pDDgDpLjUvNoyQ/giphy.gif";
             changeBackground();
 
